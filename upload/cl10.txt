@@ -1,0 +1,7 @@
+bld_name = Hotel New York
+bld_location = Str. Napoca nr. 1
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Hotelul New York (cunoscut în ultimele decenii sub numele de Hotelul Continental sau Conti) a fost construit în stil eclectic la sfârșitul secolului al XIX-lea în centrul Clujului, sub îndrumarea arhitectului Lajos Pákey (același care a proiectat și soclul statuii lui Matei Corvin, aflată tot în Piața Unirii a orașului Cluj-Napoca).
+bld_image = todo
+tags = Eclectic|1894|Lajos Pákey|oras-comoara|continental

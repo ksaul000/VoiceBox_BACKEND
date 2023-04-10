@@ -1,0 +1,7 @@
+bld_name = Biserica Piariștilor din Cluj-Napoca
+bld_location = Str. Universității nr. 5
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Biserica Piariștilor, cunoscută inițial ca Biserica Iezuiților din Cluj, respectiv ca Biserica Universității, situată pe strada Universității nr. 5, cu hramul "Sfânta Treime", este prima biserică catolică edificată în Transilvania după Reforma Protestantă, totodată primul edificiu ecleziastic în stil baroc din fosta provincie hapsburgică. Biserica a constituit un ansamblu arhitectonic cu colegiul academic iezuit, pe locul căruia se află astăzi clădirea centrală a Universității "Babeș-Bolyai".
+bld_image = todo
+tags = 	Cluj-Napoca|Cluj|Baroc|1724

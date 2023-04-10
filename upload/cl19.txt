@@ -1,0 +1,7 @@
+bld_name = Biserica Bob
+bld_location = str. Episcop Ioan Bob, nr. 5
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Biserica Bob, cu hramul „Învierea Domnului”, este prima biserică greco-catolică construită în Cluj. Numele bisericii provine de la cel al episcopului Ioan Bob, nobil român, ajuns episcop greco-catolic al Blajului, pe cheltuiala căruia a fost ridicat lăcașul de cult, între anii 1801-1803. Strada pe care se află biserica a fost redenumită în perioada comunistă în strada Prahovei, iar din 1990 poartă din nou numele episcopului Ioan Bob.
+bld_image = stadion
+tags = Baroc|1803|Iosif Leder

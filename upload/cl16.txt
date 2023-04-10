@@ -1,0 +1,7 @@
+bld_name = Gara Cluj-Napoca
+bld_location = Piața Gării 1-3
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Calea ferată Oradea–Cluj a fost dată în folosință în data de 7 septembrie 1870. La 14 august 1873 a fost inaugurat traficul feroviar în direcția Războieni.
+bld_image = todo
+tags = Ferenc Pfaff|1870|Caile Ferate Romane|eclectic

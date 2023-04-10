@@ -1,0 +1,7 @@
+bld_name = Palatul Széki
+bld_location = str. Regele Ferdinand nr. 37
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Palatul Széki este o clădire neogotică ridicată pe malul râului Someș din Cluj în anul 1893 de farmacistul și profesorul universitar Miklós Széki. Adresa palatului este în prezent str. Regele Ferdinand nr. 37 (mai demult strada Podului), colț cu strada Barițiu (mai demult strada Morii).
+bld_image = todo
+tags = Samu Pecz|1893|neogotic

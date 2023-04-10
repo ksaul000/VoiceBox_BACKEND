@@ -1,0 +1,7 @@
+bld_name = Palatul Urania din Cluj-Napoca
+bld_location = str. Horea nr. 4
+x_coordinate = 22
+y_coordinate = 32
+bld_description = Palatul Urania din Cluj-Napoca (str. Horea nr. 4), construit la 1910 după planurile arhitectului Géza Kappeter, este una dintre clădirile reprezentative pentru receptarea secesiunii vieneze la Cluj-Napoca, avându-l ca prim proprietar pe Udvari András (clădirea va fi achiziționată în data de 10 decembrie 1910), producător de trăsuri și om pasionat de cinematografie[1]. Clădirea este proiectul-soră al Uraniei din Viena.
+bld_image = todo
+tags = Géza Kappeter|1989|Secesiunea vieneză|1910

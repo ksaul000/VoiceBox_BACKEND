@@ -1,0 +1,7 @@
+bld_name = Palatul Teleki din Cluj-Napoca
+bld_location = str. M. Kogălniceanu nr.7
+x_coordinate = 22
+y_coordinate = 32
+bld_description = Palatul Teleki din Cluj-Napoca, construit pe str. M. Kogălniceanu nr.7 (în trecut Ulița Lupilor) este unul din cele mai valoroase monumente de arhitectură barocă laică clujeană, edificiu reprezentativ pentru barocul transilvănean.
+bld_image = todo
+tags = Joseph Leder|1790|1795|Baroc târziu

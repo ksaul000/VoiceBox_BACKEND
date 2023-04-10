@@ -1,0 +1,7 @@
+bld_name = Casa Matia din Cluj-Napoca
+bld_location = str. Matei Corvin nr. 6
+x_coordinate = 22
+y_coordinate = 32
+bld_description = Casa Matia din Cluj-Napoca, inițial „Casa Stefan Kolb”, este unul dintre cele mai vechi monumente de arhitectură din Cluj (cod LMI CJ-II-m-A-07393, cod RAN 54984.75), unicul palat clujean din epoca de tranziție de la stilul gotic la cel renascentist. În această clădire, situată în Evul Mediu pe str. Sf. Spirit nr. 258[1] iar în prezent pe strada Matei Corvin nr. 6, s-a născut regele Matia Corvin.
+bld_image = todo
+tags = 	Gotic|Renascentist|Jakab Méhffi|Sec. XV

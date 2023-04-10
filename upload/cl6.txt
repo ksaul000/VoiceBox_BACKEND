@@ -1,0 +1,7 @@
+bld_name = Palatul Telefoanelor din Cluj-Napoca
+bld_location = str. Octavian Petrovici nr. 2
+x_coordinate = 2
+y_coordinate = 3
+bld_description = tags = Palatul Telefoanelor este una dintre clădirile reprezentative pentru municipiul Cluj-Napoca (str. Octavian Petrovici nr. 2) și pentru stilul arhitectural al sfârșitului deceniului 7 din secolul al XX-lea în România. Autor: arh. Vasile Mitrea, 1968[1]. Conform unei afirmații eronate a dl. Lukács József, ar fi fost construit la sfârșitul anilor '30, pe locul unei curii a familiei Bornemisza înălțată în secolul al XVIII-lea și demolată în 1936
+bld_image = todo
+tags = Vasile Mitrea|Brutalism|1968

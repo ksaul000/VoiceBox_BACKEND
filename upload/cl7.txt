@@ -1,0 +1,7 @@
+bld_name = Muzeul Național de Istorie a Transilvaniei
+bld_location = str. Constantin Daicoviciu nr. 2
+x_coordinate = 22
+y_coordinate = 32
+bld_description = Muzeul Național de Istorie a Transilvaniei, din Cluj-Napoca, situat pe str. Constantin Daicoviciu nr. 2, în clădirea cunoscută și drept Casa Petrechevich-Horvath este continuatorul primei asociații muzeale din Transilvania, Societatea Muzeului Ardelean, înființată la 23 noiembrie 1859, dispunând de colecții bogate de antichități, mineralogie, botanică, o pinacotecă, o colecție etnografică și zoologie.
+bld_image = todo
+tags = 1872|1929|Transilvania|Muzeu|antichități|mineralogie|botanică,

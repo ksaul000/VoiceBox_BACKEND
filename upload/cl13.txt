@@ -1,0 +1,7 @@
+bld_name = Palatul de Justitie
+bld_location = Calea Dorobanților nr.24,
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Este o clădire reprezentativă pentru arhitectura Belle Époque, după planurile asociației de proiectanți Epitotarsasag, Kotsis, Smiel, Fodor și Reisinger. Clădirea a fost proiectată de către arhitectul Gyula Wagner.[1] Antreprenor a fost David Sebestyen. Clădirea a fost catalogată drept monument istoric și de arhitectură. În ea funcționează mai multe instanțe judecătorești, între care și Curtea de Apel Cluj.
+bld_image = todo
+tags = Eclectic|1898|Gyula Wagner|tribunal

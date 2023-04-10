@@ -1,0 +1,7 @@
+bld_name = Cluj Arena
+bld_location = Aleea Stadionului, nr. 2
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Cluj Arena este un stadion din Cluj-Napoca, construit în 2011 pe locul fostului stadion Ion Moina. Proprietarul stadionului este Consiliul Județean Cluj, însă principalul beneficiar este clubul FC Universitatea Cluj 1919. Cea mai importantă întrebuințare a arenei sunt partidele de fotbal, dar stadionul poate susținute și competiții olimpice datorită pistei de atletism de care dispune, sau concerte, precum Untold Festival și multe altele.
+bld_image = stadion
+tags = FC Universitatea Cluj|30.201|11 octombrie 2011

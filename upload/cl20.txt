@@ -1,0 +1,7 @@
+bld_name = Palatul Berde
+bld_location = str. Horea nr. 1
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Palatul Berde este un monument istoric și de arhitectură din Cluj-Napoca, edificiu reprezentativ pentru arhitectura Belle Époque a orașului. Clădirea a fost construită în contextul modernizării fostei străzi Mari (Nagy utca) la sfârșitul secolului al XIX-lea, ocazie cu care a primit numele strada Franz Joseph (în prezent strada Horea nr. 1). Edificiul a fost construit în stil Secession[1] și constituie un ansamblu urbanistic împreună cu Palatul Széki, Palatul Elian și Palatul Babos.
+bld_image = todo
+tags = Palat|Clasicist|1889|1900

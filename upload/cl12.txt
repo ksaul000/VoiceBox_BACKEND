@@ -1,0 +1,7 @@
+bld_name = Palatul Bánffy
+bld_location = str. Piața Unirii nr. 30
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Palatul Bánffy este un important edificiu baroc din Cluj-Napoca (Piața Unirii nr. 30), construit în secolul XVIII, operă a arhitectului german Johann Eberhard Blaumann. Găzduiește din 1951 Muzeul de Artă. Construit între 1774 și 1785 pe laturile unei curți rectangulare de către contele György Bánffy, este considerat a fi cea mai reprezentativă clădire în stilul baroc din Transilvania.
+bld_image = todo
+tags = Palat|Baroc|1774|1785

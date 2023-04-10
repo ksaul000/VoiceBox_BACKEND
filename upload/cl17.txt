@@ -1,0 +1,7 @@
+bld_name = Biserica Calvaria de la Cluj-Mănăștur
+bld_location = str. Aleea Gradini Manastur
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Biserica Calvaria de la Cluj-Mănăștur, cu hramul Sf. Maria, situată pe str. Primăverii nr. 60, este cel mai vechi monument istoric și de arhitectură (cod LMI CJ-II-m-A-07396) păstrat în fostul sat Cluj-Mănăștur, din apropierea Clujului. Începând cu a doua jumătate a secolului al XI-lea a funcționat aici, în interiorul fortificației regale-comitatense, abația benedictină Monasterium Beatae Mariae de Clus, înconjurată cu un zid de apărare.[1] Din vechile construcții se mai păstrează doar corul bisericii, prevăzut cu o navă mai simplă, construită în secolul al XIX-lea pe vechile fundații. Biserica este înconjurată de un val înalt de pământ, urmă a fortificațiilor elipsoidale din evul mediu, când întregul areal dispunea de șanțuri de apărare spre sud, est și vest, spre nord existând o pantă naturală abruptă.
+bld_image = todo
+tags = Biserica|Romanic|Gotic|1095

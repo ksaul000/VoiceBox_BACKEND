@@ -1,0 +1,7 @@
+bld_name = Biserica Sfântul Mihail din Cluj-Napoca
+bld_location = Piața Unirii, Cluj-Napoca 400015
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Biserica Romano-Catolică Sfântul Mihail (în maghiară Kolozsvári Szent Mihály-templom, în germană Klausenburger Michaelskirche) este unul dintre cele mai reprezentative monumente ale arhitecturii gotice din Transilvania. Edificiul a fost ridicat în Piața Centrală din Cluj-Napoca și se numără printre monumentele emblematice ale orașului. Este înscrisă pe lista monumentelor istorice din județul Cluj, elaborată de Ministerul Culturii si Patrimoniului Național din România în anul 2010 (cod LMI CJ-II-m-A-07469
+bld_image = stadion
+tags = Piața Unirii|gotic|piatră

@@ -1,0 +1,7 @@
+bld_name = Opera Națională Română
+bld_location = Piața Ștefan cel Mare nr. 2-4
+x_coordinate = 22
+y_coordinate = 32
+bld_description = Opera Națională Română Cluj-Napoca este o companie de operă și balet înființată în anul 1919, instituție publică cu personalitate juridică aflată în subordinea Ministerului Culturii și Cultelor din România. Compania activează în clădirea Teatrului Național din Cluj.
+bld_image = todo
+tags = 	Neobaroc|1904|1906

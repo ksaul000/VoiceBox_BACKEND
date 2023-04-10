@@ -1,0 +1,7 @@
+bld_name = Muzeul Etnografic al Transilvaniei
+bld_location = str. Memorandumului nr. 21
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Muzeul Etnografic al Transilvaniei este un muzeu din municipiul Cluj-Napoca (str. Memorandumului nr. 21). Muzeul a fost înființat la 16 iunie 1922, fiind una dintre realizările culturale ale perioadei următoare Marii Uniri de la 1 decembrie 1918. Cu un secol de funcționare neîntreruptă, muzeul este cel mai vechi de acest gen din România și unul dintre cele mai prestigioase din Europa.
+bld_image = todo
+tags = 1848|1865|Muzeu|Cluj-Napoca|Marea Unire

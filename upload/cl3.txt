@@ -1,0 +1,7 @@
+bld_name = Cetățuia
+bld_location = Str. Calarașilor
+x_coordinate = 2
+y_coordinate = 3
+bld_description = Cetățuia a fost clădită între anii 1715 și 1735 cu ziduri sub formă de stea, o redută, un turn și era înconjurată de bastioane, conform cu planurile arhitectului militar Giovanni Morando Visconti[1], în exterior fiind înconjurată de un val de pământ. Porțile de acces dinspre vest și sud nu mai există, au mai rămas în picioare doar cele din sud-est și nord. Deasupra porților și în interiorul incintei se aflau diferite clădiri care adăposteau spații administrative, o garnizoană și un depozit de armament.
+bld_image = todo
+tags = 1715|1735|Giovanni Morando Visconti|perioada Habsburgică

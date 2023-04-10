@@ -1,0 +1,7 @@
+bld_name = Biblioteca Centrală Universitară din Cluj-Napoca
+bld_location = Str. Clinicilor nr. 2
+x_coordinate = 0
+y_coordinate = 0
+bld_description = Biblioteca Centrală Universitară „Lucian Blaga” din Cluj este una dintre cele mai vechi și mai importante biblioteci universitare din România, cu colecții valoroase, cuprinzând incunabule medievale și numeroase rarități bibliofile. Biblioteca dispune de 55 de săli de lectură și o capacitate de 2.100 locuri pentru cititori în sediul central și în filiale.
+bld_image = todo
+tags = 	Cluj-Napoca|Romania|Kálmán Giergl|1906|Art Nouveau
